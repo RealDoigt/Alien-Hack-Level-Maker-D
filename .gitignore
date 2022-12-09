@@ -1,0 +1,15 @@
+.dub
+docs.json
+__dummy.html
+docs/
+/alien-hack-level-maker-d
+alien-hack-level-maker-d.so
+alien-hack-level-maker-d.dylib
+alien-hack-level-maker-d.dll
+alien-hack-level-maker-d.a
+alien-hack-level-maker-d.lib
+alien-hack-level-maker-d-test-*
+*.exe
+*.o
+*.obj
+*.lst
