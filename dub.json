@@ -3,6 +3,9 @@
 		"doigt"
 	],
 	"copyright": "Copyright © 2022, doigt",
+	"dependencies": {
+		"arsd-official:minigui": "~>10.9.7"
+	},
 	"description": "A level maker for the puzzle game Alien-Hack",
 	"license": "mit",
 	"name": "alien-hack-level-maker-d"
